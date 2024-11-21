@@ -1,2 +1,2 @@
 # StyleAligned_MM
-StyleAligned (CVPR'23, Google)
+- Original Backbone from StyleAligned (CVPR'23, Google)
